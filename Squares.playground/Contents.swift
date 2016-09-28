@@ -18,6 +18,7 @@ let square2 = Square(topLeftCorner: (5.5, 7.25), lengthOfSide: 9.5)
 let square3 = Square(topLeftCorner: (14.5, 2.3), lengthOfSide: 7.8)
 let square4 = Square(topLeftCorner: (23.4, 2.0), lengthOfSide: 12.1)
 
+
 square1.lengthOfSide
 square2.topLeftCorner
 
